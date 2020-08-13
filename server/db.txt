@@ -1,0 +1,3 @@
+user:dbuser
+pwd:password
+db:forge

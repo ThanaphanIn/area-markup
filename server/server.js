@@ -16,13 +16,21 @@ app.use(function(req, res, next) {
 
 
 // connect to MySQL hosted on Amazon RDS
+
+/*
 var connection = mysql.createConnection({
     host: process.env.MYSQL_host,
     user: process.env.MYSQL_user,
     password: process.env.MYSQL_password,
     database: process.env.MYSQL_database
 });
-
+*/
+var connection = mysql.createConnection({
+    host: '127.0.0.1',
+    user: 'dbuser',
+    password: 'password',
+    database: 'forge'
+});
 
 // Get all markup's from MySQL
 app.get('/allMarkup', (req, res) => {

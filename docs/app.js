@@ -56,6 +56,12 @@ window.app = new Vue({
           this.Items = data;
           this.Items.forEach(i => i.json=JSON.parse(i.json));
       })
+
+    //   fetch(`http://localhost:3000/allMarkup?approvalid=1`).then(r => r.json()).then( data=> {
+    //     console.log(data);
+    //     this.Items = data;
+    //     this.Items.forEach(i => i.json = JSON.parse(i.json));
+    // })
     }
   },
 

@@ -1,0 +1,22 @@
+{
+  "name": "area-markup",
+  "version": "1.0.0",
+  "description": "DEMO: [https://wallabyway.github.io/area-markup/](https://wallabyway.github.io/area-markup/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyway/area-markup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyway/area-markup/issues"
+  },
+  "homepage": "https://github.com/wallabyway/area-markup#readme"
+}

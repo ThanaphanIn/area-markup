@@ -202,6 +202,7 @@ Autodesk.Viewing.Extensions.Measure.MeasureTool = function( viewer, options, sha
     this.onRemoveMeasurement = function(e) {
         var MarkupID = e.detail;
         //var item = _measurementsManager.measurementsList.filter(i=>{return i.MarkupID=MarkupID});
+        // var _measurementsManager = new Autodesk.Viewing.Extensions.Measure.MeasurementsManager(_viewer);
         var item = _measurementsManager.measurementsList[Object.keys(_measurementsManager.measurementsList).filter(i=>{return _measurementsManager.measurementsList[i].MarkupID==MarkupID})];
         console.log('removing MarkupID / itemid',MarkupID, item.id);
         this.selectMeasurementById(item.id);

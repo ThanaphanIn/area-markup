@@ -1,0 +1,31 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" layer-order-id="markups-svg" style="position:absolute; left:0; top:0; transform:scale(1,-1); -ms-transform:scale(1,-1); -webkit-transform:scale(1,-1); -moz-transform:scale(1,-1); -o-transform:scale(1,-1); transformOrigin:0, 0; -ms-transformOrigin:0, 0; -webkit-transformOrigin:0, 0; -moz-transformOrigin:0, 0; -o-transformOrigin:0, 0; " width="881" height="826" viewBox="0.02383654937570512 -4.712796188494053 42 39.37797927858731" pointer-events="painted" cursor="crosshair">
+    <metadata>
+        <markup_document
+            xmlns="http://www.w3.org/1999/xhtml" data-model-version="4">
+        </markup_document>
+    </metadata>
+    <g cursor="default" pointer-events="painted" style="display: block;">
+        <metadata>
+            <markup_element
+                xmlns="http://www.w3.org/1999/xhtml" font-size="0.36319610281696413" stroke-color="#ff0000" stroke-opacity="1" fill-color="#ff0000" fill-opacity="0" font-family="Arial" font-style="normal" font-weight="normal" type="label" position="30.49354937570942 22.150994760033733" size="5.4479387060158935 3.098751396014741" text="abcd&#10;">
+            </markup_element>
+        </metadata>
+        <g clip-path="url(#markup-clipper-7CCFF722-65DB-4403-9A12-5AB328373F24)">
+            <clipPath id="markup-clipper-7CCFF722-65DB-4403-9A12-5AB328373F24">
+                <rect transform="translate( 27.769580022701476 , 23.700370458041103 ) rotate( 0 ) scale(1,-1)" x="0" y="0" width="5.4479387060158935" height="3.098751396014741"/>
+            </clipPath>
+            <rect id="markup-background" transform="translate( 27.769580022701476 , 23.700370458041103 ) rotate( 0 ) scale(1,-1)" x="0" y="0" width="5.4479387060158935" height="3.098751396014741" fill="none"/>
+            <text id="markup" alignment-baseline="middle" font-family="Arial" font-size="36.31961028169641" fill="rgba(255,0,0,1)" font-weight="normal" font-style="normal" transform="translate( 27.769580022701476 , 23.33717435522414 ) rotate( 0 ) scale(0.01,-0.01)">
+                <tspan x="18.159805140848206" y="18.159805140848206">abcd</tspan>
+                <tspan x="18.159805140848206" y="65.37529850705354"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" layer-order-id="markups-svg" style="position:absolute; left:0; top:0; transform:scale(1,-1); -ms-transform:scale(1,-1); -webkit-transform:scale(1,-1); -moz-transform:scale(1,-1); -o-transform:scale(1,-1); transformOrigin:0, 0; -ms-transformOrigin:0, 0; -webkit-transformOrigin:0, 0; -moz-transformOrigin:0, 0; -o-transformOrigin:0, 0; " width="881" height="826" viewBox="7.614505214458603 5.0490920684625955 26.818662643432617 25.144399642958934" pointer-events="painted" cursor="crosshair"><metadata><markup_document xmlns="http://www.w3.org/1999/xhtml" data-model-version="4"></markup_document></metadata><g cursor="inherit" pointer-events="painted"><metadata><markup_element xmlns="http://www.w3.org/1999/xhtml" stroke-width="0.03631961028169428" stroke-color="#ff0000" stroke-opacity="1" fill-color="#ff0000" fill-opacity="1" type="arrow" head="22.954597048808168 21.41206173483021" tail="19.90351872871736 24.463140032444734" rotation="0.7853981597141138"></markup_element></metadata><path id="markup" d="M -2.1574381621209042 -0.01815980514084714 l 4.205917493396726 0 l -0.010895883084508284 -0.03631961028169428 l 0.11985471392959113 0.05447941542254142 l -0.11985471392959113 0.05447941542254142 l 0.010895883084508284 -0.03631961028169428 l -4.205917493396726 0 z" stroke-width="0.03631961028169428" stroke="rgba(255,0,0,1)" fill="rgba(255,0,0,1)" transform="translate( 21.429057888762763 , 22.937600883637472 ) rotate( -44.99999978896048 )"/></g></svg>
+
+ markup.enterEditMode(); 
+        markup.leaveEditMode();
+        markup.loadMarkups(mym1, 'LogoLayer')
